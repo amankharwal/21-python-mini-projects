@@ -1,1 +1,1 @@
-# 30-mini-projects
+# 21 Python Mini Projects
